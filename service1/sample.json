@@ -1,5 +1,6 @@
 {
     "test" : {
         "string":"test content"
-    }
+    },
+    "integer" : 15
 }
